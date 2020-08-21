@@ -9,7 +9,7 @@ headless: true
   - [Github 管理]({{< relref "/coding/github.md" >}})
   - [工具集]({{< relref "/coding/hugo-book.md" >}})
 
-- Part 2 - 维护项目
+- [Part 2 - 维护项目]({{< relref "/project/status.md" >}})
   - [bbhj]({{< relref "/project/bbhj.md" >}})
   - [studygolang]({{< relref "/project/studygolang.md" >}})
 
