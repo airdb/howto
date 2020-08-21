@@ -25,4 +25,4 @@
 | <img src="https://avatars1.githubusercontent.com/u/41041388?s=460&v=4" style="width:32px; height:32px; border-radius:50%; "/>  chuanguoyuxi | [Github](https://github.com/chuanguoyuxi) | |    |
 | <img src="https://avatars1.githubusercontent.com/u/25641088?s=460&v=4" style="width:32px; height:32px; border-radius:50%; "/>  nonespace | [Github](https://github.com/nonespace ) | |    |
 | <img src="https://avatars1.githubusercontent.com/u/30176276?s=460&v=4" style="width:32px; height:32px; border-radius:50%; "/>  vieangry | [Github](https://github.com/vieangry) | |    |
-| <img src="https://avatars1.githubusercontent.com/u/3772217?s=460&v=4" style="width:32px; height:32px; border-radius:50%; "/>  You |      | Join us, come on!  |    | |
+| <img src="https://avatars1.githubusercontent.com/u/19773530?s=460&v=4" style="width:32px; height:32px; border-radius:50%; "/>  You |      | Join us, come on!  |    | |
