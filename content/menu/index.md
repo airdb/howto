@@ -4,7 +4,7 @@ headless: true
 
 <hr>
 
-- [Part 1 - 规范]({{< relref "/part1/_index.md" >}})
+- [Part 1 - 规范]()
   - [Github 管理]({{< relref "/coding/github.md" >}})
   - [工具集]({{< relref "/coding/hugo-book.md" >}})
 
