@@ -26,8 +26,16 @@ headless: true
   - [Archives]({{< relref "/report/" >}})
 
 - [Part 4 - 学习乐园]({{< relref "/academy/_index.md" >}})
+  - [Share Records]({{< relref "/academy/labs-college/records.md" >}})
+  - [labs-college]({{< relref "/academy/labs-college/courses/README.md" >}})
+  	- [Sign in with Google]({{< relref "/academy/labs-college/courses/dev1000.md" >}})
+  	- [Sign in with Google]({{< relref "/academy/labs-college/courses/dev1001.md" >}})
+  	- [Build a deb packag]({{< relref "/academy/labs-college/courses/dev2001.md" >}})
+  	- [labs-college]({{< relref "/academy/labs-college/courses/lc1001.md" >}})
+  	- [API Gateway]({{< relref "/academy/labs-college/courses/lc1002.md" >}})
+  	- [How to use git]({{< relref "/academy/labs-college/courses/sre1001.md" >}})
   - [算法 LeeCode]({{< relref "/academy/leecode.md" >}})
-  - [dounine 的学习心得]({{< relref "/academy/dou_nine.md" >}})
+  - [dounine 的学习心得]({{< relref "/academy/dounine.md" >}})
 
 - FAQ
 
