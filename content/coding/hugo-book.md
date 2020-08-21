@@ -32,3 +32,9 @@ themes/book/layouts/partials/docs/gitalk.html
 <span id="busuanzi_container_site_pv">本站总访问量: <span id="busuanzi_value_site_pv"></span> 次</span>
 <span id="busuanzi_container_site_uv">您是本站第 <span id="busuanzi_value_site_uv"></span> 位访问者</span>
 ```
+
+4. 添加 IOS logo
+```
+# themes/book/layouts/partials/docs/html-head.html
+<link rel="apple-touch-icon" sizes="128x128" href="logo.png">
+```
