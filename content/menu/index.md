@@ -5,6 +5,7 @@ headless: true
 <hr>
 
 - [Part 1 - 规范]()
+  - [技术栈]({{< relref "/coding/stack.md" >}})
   - [Github 管理]({{< relref "/coding/github.md" >}})
   - [工具集]({{< relref "/coding/hugo-book.md" >}})
 
