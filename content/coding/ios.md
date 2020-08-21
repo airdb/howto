@@ -9,6 +9,9 @@ type: docs
 
 https://osxdaily.com/2020/02/26/add-website-home-screen-iphone-ipad/
 
+1. Open Safari on the iPhone or iPad
+
+
 
 ## 设置书籍 Logo
 
