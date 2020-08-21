@@ -1,6 +1,6 @@
 {
-  "name": "airdb cookbook",
-  "short_name": "airdb cookbook",
+  "name": "airdb",
+  "short_name": "airdb",
   "start_url": "/howto/",
   "scope": "/howto/",
   "display": "standalone",
