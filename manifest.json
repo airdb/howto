@@ -1,0 +1,15 @@
+{
+  "name": "airdb cookbook",
+  "short_name": "airdb cookbook",
+  "start_url": "/howto/",
+  "scope": "/howto/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/howto/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
