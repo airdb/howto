@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>airdb</title><link>https://www.airdb.com/howto/</link><description>Recent content on airdb</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://www.airdb.com/howto/index.xml" rel="self" type="application/rss+xml"/><item><title>With ToC</title><link>https://www.airdb.com/howto/docs/example/table-of-contents/with-toc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/docs/example/table-of-contents/with-toc/</guid><description>Caput vino delphine in tamen vias # Cognita laeva illo fracta # Lorem markdownum pavent auras, surgit nunc cingentibus libet Laomedonque que est. Pastor An arbor filia foedat, ne fugit aliter, per. Helicona illas et callida neptem est Oresitrophos caput, dentibus est venit. Tenet reddite famuli praesentem fortibus, quaeque vis foret si frondes gelidos gravidae circumtulit inpulit armenta nativum.
 Te at cruciabere vides rubentis manebo Maturuit in praetemptat ruborem ignara postquam habitasse Subitarum supplevit quoque fontesque venabula spretis modo Montis tot est mali quasque gravis Quinquennem domus arsit ipse Pellem turis pugnabant locavit Natus quaerere # Pectora et sine mulcere, coniuge dum tincta incurvae.</description></item><item><title>Without ToC</title><link>https://www.airdb.com/howto/docs/example/table-of-contents/without-toc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/docs/example/table-of-contents/without-toc/</guid><description>At me ipso nepotibus nunc celebratior genus # Tanto oblite # Lorem markdownum pectora novis patenti igne sua opus aurae feras materiaque illic demersit imago et aristas questaque posset. Vomit quoque suo inhaesuro clara. Esse cumque, per referri triste. Ut exponit solisque communis in tendens vincetis agisque iamque huic bene ante vetat omina Thebae rates. Aeacus servat admonitu concidit, ad resimas vultus et rugas vultu dignamque Siphnon.
-Quam iugulum regia simulacra, plus meruit humo pecorumque haesit, ab discedunt dixit: ritu pharetramque.</description></item><item><title/><link>https://www.airdb.com/howto/docs/example/collapsed/3rd-level/4th-level/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/docs/example/collapsed/3rd-level/4th-level/</guid><description>4th Level of Menu # Caesorum illa tu sentit micat vestes papyriferi # Inde aderam facti; Theseus vis de tauri illa peream. Oculos uberaque non regisque vobis cursuque, opus venit quam vulnera. Et maiora necemque, lege modo; gestanda nitidi, vero? Dum ne pectoraque testantur.
+Quam iugulum regia simulacra, plus meruit humo pecorumque haesit, ab discedunt dixit: ritu pharetramque.</description></item><item><title/><link>https://www.airdb.com/howto/academy/dou_nine/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/academy/dou_nine/</guid><description>shuangjiu 学习内容
+2018 week43 # 一、本周目标 # 学习vue + bootstrap, 了解 fcweb 项目 写一个论坛页面 二、学习目标 # 由小程序转战web前端。学习bootstrap3框架，完成home.vue页面。 转换bootstrap4框架，转而学习bootstrap4框架，修改home.vue页面，并完成forum.vue页面。 学习go语言的基本语法，并自己尝试编写与运行go语言程序。 三、收获 # 了解了bootstrap框架。第一次仔细阅读纯英文文档，感觉是一个突破。 通过利用框架进行前端布局，加深了对布局的理解。框架的布局思想很不错，比如container样式的设计、col划分等。 四、下周计划 # js和vue基础需进一步加强。 细化forum.vue界面并做好文章界面。 看完go语言的基础文档，了解docker。在不使用beego框架的情况下，尝试用go部署一个后端应用。 2018 week44 # 一、学习目标 # 完成 vue forum 展示及跳转功能。 主题富文本编辑框实现，如有时间搞一下 markdown 的富文本编辑。 了解服务器登录，并且能够用使用beego框架(建议先不要了解docker) 二、进度 # 实现markdown编辑器，并可以获取已保存的文字信息，同时输出到控制台。
+在fcweb项目中，为论坛的每个主题帖增加图文界面(article.vue)。
+学习go语言和正则表达式，尝试用go语言实现数据库字符串的拆分。</description></item><item><title/><link>https://www.airdb.com/howto/docs/example/collapsed/3rd-level/4th-level/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/docs/example/collapsed/3rd-level/4th-level/</guid><description>4th Level of Menu # Caesorum illa tu sentit micat vestes papyriferi # Inde aderam facti; Theseus vis de tauri illa peream. Oculos uberaque non regisque vobis cursuque, opus venit quam vulnera. Et maiora necemque, lege modo; gestanda nitidi, vero? Dum ne pectoraque testantur.
 Venasque repulsa Samos qui, exspectatum eram animosque hinc, aut manes, Assyrii. Cupiens auctoribus pariter rubet, profana magni super nocens. Vos ius sibilat inpar turba visae iusto!</description></item><item><title/><link>https://www.airdb.com/howto/docs/example/hidden/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/docs/example/hidden/</guid><description>This page is hidden in menu # Quondam non pater est dignior ille Eurotas # Latent te facies # Lorem markdownum arma ignoscas vocavit quoque ille texit mandata mentis ultimus, frementes, qui in vel. Hippotades Peleus pennas conscia cuiquam Caeneus quas.
 Pater demittere evincitque reddunt Maxime adhuc pressit huc Danaas quid freta Soror ego Luctus linguam saxa ultroque prior Tatiumque inquit Saepe liquitur subita superata dederat Anius sudor Cum honorum Latona # O fallor in sustinui iussorum equidem.</description></item><item><title/><link>https://www.airdb.com/howto/docs/shortcodes/buttons/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/docs/shortcodes/buttons/</guid><description>Buttons # Buttons are styled links that can lead to local page or external link.
 Example # {{&amp;lt; button relref=&amp;#34;/&amp;#34; [class=&amp;#34;...&amp;#34;] &amp;gt;}}Get Home{{&amp;lt; /button &amp;gt;}} {{&amp;lt; button href=&amp;#34;https://github.com/alex-shpak/hugo-book&amp;#34; &amp;gt;}}Contribute{{&amp;lt; /button &amp;gt;}} Get Home Contribute</description></item><item><title/><link>https://www.airdb.com/howto/docs/shortcodes/columns/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/docs/shortcodes/columns/</guid><description>Columns # Columns help organize shorter pieces of content horizontally for readability.
@@ -17,17 +20,66 @@ Lorem markdownum insigne. Olympo signis Delphis!</description></item><item><titl
 随着 go 越来越流行，学习 go 的人也越来越多，社区用户量逐步增加, 为了持续给社区用户提供更好的服务，希望技术志愿者可以承担一部分维护工作，缓解 Polaris 老师压力。
 愿景 # 通过技术贡献，为 gopher 用户提供优质内容和服务。
 项目 # 目前暂时由我们维护小程序 Go 中文网。后续团队逐步成熟稳定，会逐步 maintain 其他项目。
-成员介绍 # 成员 主页 工作内容 说明 Dean Github 负责整体架构设计, 资源协调等 isColt Github AcKevin Github chuanguoyuxi Github nonespace Github vieangry Github You Join us, come on!</description></item><item><title/><link>https://www.airdb.com/howto/part3/meeting/2020-0304/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/part3/meeting/2020-0304/</guid><description>First Meeting 2020-0304 # Attendees:
-@deancn @iscolt @Ac-Kevin @chuanguoyuxi @nonespace @vieangry @whxcode Topic: Startup a new remote team
-Notes:
-Self Introduce Tech Solutions Selection Wechat kbone + vue Co-work with github Wechat group Email which verified by github. github notifications Github Repo, project, issues Project Management Weekly meeting at Every Sunday 22:00 - 23:00 (at least 3 times in Mar, 2020.</description></item><item><title/><link>https://www.airdb.com/howto/part3/meeting/2020-0308/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/part3/meeting/2020-0308/</guid><description>Weekly Meeting 2020-0308 # Attendees:
-@deancn @iscolt @Ac-Kevin @chuanguoyuxi @nonespace @vieangry @whxcode @Jie949 Topic:
-Review entrytask Discuss about the issue we faced. Tasks arrangement Let&amp;rsquo;s go after dean assign issue. Notes:
-@Jie949 join us as a project manager Many issues about using kbone and kbone UI. Suggestion: QA(must read): https://wechat-miniprogram.github.io/kbone/docs/qa/ Community: https://developers.weixin.qq.com/community/develop/mixflow Sharing about VUE MVVM (nonespace) @iscolt and @Ac-Kevin should learn how to review code.</description></item><item><title/><link>https://www.airdb.com/howto/part3/meeting/2020-0315/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/part3/meeting/2020-0315/</guid><description>Weekly Meeting 2020-0308 # Attendees:
-@deancn @iscolt @Ac-Kevin @chuanguoyuxi @nonespace @vieangry @whxcode @Jie949 Topic:
-Review Porject task and Issue. Review Miniprogram MVVM sharing Thoughts on code Disscus next week plan Notes:
-AOB</description></item><item><title/><link>https://www.airdb.com/howto/part3/project/meeting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/part3/project/meeting/</guid><description>Meeting # Meeting #</description></item><item><title/><link>https://www.airdb.com/howto/part3/project/report/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/part3/project/report/</guid><description>Team Report # Report #</description></item><item><title/><link>https://www.airdb.com/howto/part3/README/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/part3/README/</guid><description>studygolang 项目维护 # 背景 # Golang Study Go语言中文网,中国 Golang 社区,Go语言学习园地,致力于构建完善的 Golang 中文社区,Go语言爱好者的学习家园。分享 Go 语言知识,交流使用经验。 站点 2013 年上线以来，得到国内广大 gopher 们的支持，一直由 Polaris 老师。
+成员介绍 # 成员 主页 工作内容 说明 Dean Github 负责整体架构设计, 资源协调等 isColt Github AcKevin Github chuanguoyuxi Github nonespace Github vieangry Github You Join us, come on!</description></item><item><title/><link>https://www.airdb.com/howto/part3/project/meeting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/part3/project/meeting/</guid><description>Meeting # Meeting #</description></item><item><title/><link>https://www.airdb.com/howto/part3/project/report/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/part3/project/report/</guid><description>Team Report # Report #</description></item><item><title/><link>https://www.airdb.com/howto/part3/README/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/part3/README/</guid><description>studygolang 项目维护 # 背景 # Golang Study Go语言中文网,中国 Golang 社区,Go语言学习园地,致力于构建完善的 Golang 中文社区,Go语言爱好者的学习家园。分享 Go 语言知识,交流使用经验。 站点 2013 年上线以来，得到国内广大 gopher 们的支持，一直由 Polaris 老师。
 随着 go 越来越流行，学习 go 的人也越来越多，社区用户量逐步增加, 为了持续给社区用户提供更好的服务，希望技术志愿者可以承担一部分维护工作，缓解 Polaris 老师压力。
 愿景 # 通过技术贡献，为 gopher 用户提供优质内容和服务。
 项目 # 目前暂时由我们维护小程序 Go 中文网。后续团队逐步成熟稳定，会逐步 maintain 其他项目。
-成员介绍 # 成员 主页 工作内容 说明 Dean Github 负责整体架构设计, 资源协调等 isColt Github AcKevin Github chuanguoyuxi Github nonespace Github vieangry Github You Join us, come on!</description></item><item><title>Books on Github</title><link>https://www.airdb.com/howto/part2/hugo-book/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/part2/hugo-book/</guid><description>Hugo-book # hugo-book</description></item><item><title>Lee Code</title><link>https://www.airdb.com/howto/part2/leecode/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/part2/leecode/</guid><description>Let Code # https://books.halfrost.com/leetcode</description></item></channel></rss>
+成员介绍 # 成员 主页 工作内容 说明 Dean Github 负责整体架构设计, 资源协调等 isColt Github AcKevin Github chuanguoyuxi Github nonespace Github vieangry Github You Join us, come on!</description></item><item><title/><link>https://www.airdb.com/howto/report/2018q3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/report/2018q3/</guid><description>2018w32 周报 (08.06 ~ 08.12) # 腾讯云 CVM 主机从基础网迁移至 VPC网络。(目标是支持 docker 部署)
+图片无法上传问题，已修复。
+腾讯云 CDB 已从 mysql 5.5 GBK 升级到 mysql 5.7 UTF8MB4。
+Discuz X3.4 当前是从官方开源拉取的。 Discuz地址： https://gitee.com/ComsenzDiscuz/DiscuzX
+以上操作均有备份，如有需要请与 Dean 联系。
+##后续跟进##
+用户注册，UC 通信息问题。
+static cdn 中包含以前的 GBK 文件，需要重新删除，上传一份 UTF8 的文件。
+static cdn 中 uc_server 的图片也应该需要上传一份的。 请使用coscmd 上传。
+attachment 域名的处理逻辑，需要再确认一下。
+看一下 avatar 能不能和 uc_server 的 avatar 合并在同一个域名里</description></item><item><title/><link>https://www.airdb.com/howto/report/2018q4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/report/2018q4/</guid><description>2018w41 周报 (10.8 ~ 10.14) # ##本周目标##
+1. 首页及文章页面不滚动问题处理 &amp;ndash; IWTF 已完成
+2. 图片按文章内容生成长图 &amp;ndash; IWTF 已完成
+3. 转发标题内容与文章内容关联 &amp;ndash; IWTF 已完成
+学习使用小程序插件，如&amp;lt;SlugTeam - 评论小程序插件&amp;gt; &amp;ndash; IWTF ##Day14##
+2018w41 周报 (10.15 ~ 10.21) # ##本周目标##
+首页登录授权 &amp;ndash;IWTF
+个人主页我的服务功能添加跳转页面 &amp;ndash;99MyCql
+发布页面增加返回及主页按钮 &amp;ndash;99MyCql
+了解request请求，与后端进行交互 &amp;ndash;IWTF
+##进度##
+均已完成
+##总结##
+主体上基本功能基本完成了，但是仍需要做好细节处理。
+设计上仍有一定欠缺。
+产品也暂时没有接入。
+2018w32 周报 (10.22 ~ 10.28) # ##本周目标##</description></item><item><title/><link>https://www.airdb.com/howto/report/2019m4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/report/2019m4/</guid><description>2019 年 4 月工作报告 # Time: April 21, 2019 Moderator: @dean Notetaker: @dean Video/Slides: https://youtu.be/JFWi5yebR88 Moderator checklist:
+确定参会人数及时间 是否需要视频或录屏 会议议题及沟通事项 提前准备工作计划 Attendees:
+@dean @tbDuck Agenda
+Topic: 下周工作
+Notes:
+技术突破 志愿者信息录入 小程序使用场景 扫码进入 微信好友分享 微信群组分享 Questions:
+Q: @dean, 为什么用 mpvue, 不用 wepy 呢？ A: 因为 mpvue 使用成本小，且当前已经支持各类小程序。对于我们来讲，是比较简单的 Comments:</description></item><item><title/><link>https://www.airdb.com/howto/report/2019m5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/report/2019m5/</guid><description>2019 年 5 月工作报告 # Time: April 30, 2019 Moderator: @dean Notetaker: @dean Video/Slides: https://slides.com/airdb/deck#/ Moderator checklist:
+确定参会人数及时间 是否需要视频或录屏 会议议题及沟通事项 提前准备工作计划 Attendees:
+@dean @tbDuck @wuxuanz @shirley Agenda
+Topic: 5 月工作
+Notes:
+技术突破 志愿者信息录入 小程序使用场景 扫码进入 微信好友分享 微信群组分享 Questions:
+Q: A: Comments:
+欢迎 @wuxuanz 加入, 时间 2019.</description></item><item><title/><link>https://www.airdb.com/howto/report/2020-0304/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/report/2020-0304/</guid><description>First Meeting 2020-0304 # Attendees:
+@deancn @iscolt @Ac-Kevin @chuanguoyuxi @nonespace @vieangry @whxcode Topic: Startup a new remote team
+Notes:
+Self Introduce Tech Solutions Selection Wechat kbone + vue Co-work with github Wechat group Email which verified by github. github notifications Github Repo, project, issues Project Management Weekly meeting at Every Sunday 22:00 - 23:00 (at least 3 times in Mar, 2020.</description></item><item><title/><link>https://www.airdb.com/howto/report/2020-0308/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/report/2020-0308/</guid><description>Weekly Meeting 2020-0308 # Attendees:
+@deancn @iscolt @Ac-Kevin @chuanguoyuxi @nonespace @vieangry @whxcode @Jie949 Topic:
+Review entrytask Discuss about the issue we faced. Tasks arrangement Let&amp;rsquo;s go after dean assign issue. Notes:
+@Jie949 join us as a project manager Many issues about using kbone and kbone UI. Suggestion: QA(must read): https://wechat-miniprogram.github.io/kbone/docs/qa/ Community: https://developers.weixin.qq.com/community/develop/mixflow Sharing about VUE MVVM (nonespace) @iscolt and @Ac-Kevin should learn how to review code.</description></item><item><title/><link>https://www.airdb.com/howto/report/2020-0315/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/report/2020-0315/</guid><description>Weekly Meeting 2020-0308 # Attendees:
+@deancn @iscolt @Ac-Kevin @chuanguoyuxi @nonespace @vieangry @whxcode @Jie949 Topic:
+Review Porject task and Issue. Review Miniprogram MVVM sharing Thoughts on code Disscus next week plan Notes:
+AOB</description></item><item><title/><link>https://www.airdb.com/howto/report/README/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/report/README/</guid><description>工作内容 # 2019 年 # 4 月报告 5 月报告
+2018 年 # Q3 周报
+Q4 周报
+其他工作
+学习体会 # douNine</description></item><item><title/><link>https://www.airdb.com/howto/report/template/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/report/template/</guid><description>月报模板 # 示例 # Weekly Meeting 2019w16 (04.15 ~ 04.21) # Time: April 21, 2019 Moderator: @dean Notetaker: @dean Video/Slides: https://youtu.be/JFWi5yebR88 Moderator checklist:
+确定参会人数及时间 是否需要视频或录屏 会议议题及沟通事项 提前准备工作计划 Attendees:
+@dean @tbDuck Agenda
+Topic: 下周工作
+Notes:
+技术突破 志愿者信息录入 小程序使用场景 扫码进入 微信好友分享 微信群组分享 Questions:
+Q: @dean, 为什么用 mpvue, 不用 wepy 呢？ A: 因为 mpvue 使用成本小，且当前已经支持各类小程序。对于我们来讲，是比较简单的 Comments:</description></item><item><title>Books on Github</title><link>https://www.airdb.com/howto/part2/hugo-book/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/part2/hugo-book/</guid><description>Hugo-book # hugo-book</description></item><item><title>Lee Code</title><link>https://www.airdb.com/howto/academy/leecode/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/academy/leecode/</guid><description>Let Code # https://books.halfrost.com/leetcode</description></item></channel></rss>

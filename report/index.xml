@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Weekly Report on airdb</title><link>https://www.airdb.com/howto/report/</link><description>Recent content in Weekly Report on airdb</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://www.airdb.com/howto/report/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://www.airdb.com/howto/report/2018q3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/report/2018q3/</guid><description>2018w32 周报 (08.06 ~ 08.12) # 腾讯云 CVM 主机从基础网迁移至 VPC网络。(目标是支持 docker 部署)
+图片无法上传问题，已修复。
+腾讯云 CDB 已从 mysql 5.5 GBK 升级到 mysql 5.7 UTF8MB4。
+Discuz X3.4 当前是从官方开源拉取的。 Discuz地址： https://gitee.com/ComsenzDiscuz/DiscuzX
+以上操作均有备份，如有需要请与 Dean 联系。
+##后续跟进##
+用户注册，UC 通信息问题。
+static cdn 中包含以前的 GBK 文件，需要重新删除，上传一份 UTF8 的文件。
+static cdn 中 uc_server 的图片也应该需要上传一份的。 请使用coscmd 上传。
+attachment 域名的处理逻辑，需要再确认一下。
+看一下 avatar 能不能和 uc_server 的 avatar 合并在同一个域名里</description></item><item><title/><link>https://www.airdb.com/howto/report/2018q4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/report/2018q4/</guid><description>2018w41 周报 (10.8 ~ 10.14) # ##本周目标##
+1. 首页及文章页面不滚动问题处理 &amp;ndash; IWTF 已完成
+2. 图片按文章内容生成长图 &amp;ndash; IWTF 已完成
+3. 转发标题内容与文章内容关联 &amp;ndash; IWTF 已完成
+学习使用小程序插件，如&amp;lt;SlugTeam - 评论小程序插件&amp;gt; &amp;ndash; IWTF ##Day14##
+2018w41 周报 (10.15 ~ 10.21) # ##本周目标##
+首页登录授权 &amp;ndash;IWTF
+个人主页我的服务功能添加跳转页面 &amp;ndash;99MyCql
+发布页面增加返回及主页按钮 &amp;ndash;99MyCql
+了解request请求，与后端进行交互 &amp;ndash;IWTF
+##进度##
+均已完成
+##总结##
+主体上基本功能基本完成了，但是仍需要做好细节处理。
+设计上仍有一定欠缺。
+产品也暂时没有接入。
+2018w32 周报 (10.22 ~ 10.28) # ##本周目标##</description></item><item><title/><link>https://www.airdb.com/howto/report/2019m4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/report/2019m4/</guid><description>2019 年 4 月工作报告 # Time: April 21, 2019 Moderator: @dean Notetaker: @dean Video/Slides: https://youtu.be/JFWi5yebR88 Moderator checklist:
+确定参会人数及时间 是否需要视频或录屏 会议议题及沟通事项 提前准备工作计划 Attendees:
+@dean @tbDuck Agenda
+Topic: 下周工作
+Notes:
+技术突破 志愿者信息录入 小程序使用场景 扫码进入 微信好友分享 微信群组分享 Questions:
+Q: @dean, 为什么用 mpvue, 不用 wepy 呢？ A: 因为 mpvue 使用成本小，且当前已经支持各类小程序。对于我们来讲，是比较简单的 Comments:</description></item><item><title/><link>https://www.airdb.com/howto/report/2019m5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/report/2019m5/</guid><description>2019 年 5 月工作报告 # Time: April 30, 2019 Moderator: @dean Notetaker: @dean Video/Slides: https://slides.com/airdb/deck#/ Moderator checklist:
+确定参会人数及时间 是否需要视频或录屏 会议议题及沟通事项 提前准备工作计划 Attendees:
+@dean @tbDuck @wuxuanz @shirley Agenda
+Topic: 5 月工作
+Notes:
+技术突破 志愿者信息录入 小程序使用场景 扫码进入 微信好友分享 微信群组分享 Questions:
+Q: A: Comments:
+欢迎 @wuxuanz 加入, 时间 2019.</description></item><item><title/><link>https://www.airdb.com/howto/report/2020-0304/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/report/2020-0304/</guid><description>First Meeting 2020-0304 # Attendees:
+@deancn @iscolt @Ac-Kevin @chuanguoyuxi @nonespace @vieangry @whxcode Topic: Startup a new remote team
+Notes:
+Self Introduce Tech Solutions Selection Wechat kbone + vue Co-work with github Wechat group Email which verified by github. github notifications Github Repo, project, issues Project Management Weekly meeting at Every Sunday 22:00 - 23:00 (at least 3 times in Mar, 2020.</description></item><item><title/><link>https://www.airdb.com/howto/report/2020-0308/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/report/2020-0308/</guid><description>Weekly Meeting 2020-0308 # Attendees:
+@deancn @iscolt @Ac-Kevin @chuanguoyuxi @nonespace @vieangry @whxcode @Jie949 Topic:
+Review entrytask Discuss about the issue we faced. Tasks arrangement Let&amp;rsquo;s go after dean assign issue. Notes:
+@Jie949 join us as a project manager Many issues about using kbone and kbone UI. Suggestion: QA(must read): https://wechat-miniprogram.github.io/kbone/docs/qa/ Community: https://developers.weixin.qq.com/community/develop/mixflow Sharing about VUE MVVM (nonespace) @iscolt and @Ac-Kevin should learn how to review code.</description></item><item><title/><link>https://www.airdb.com/howto/report/2020-0315/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/report/2020-0315/</guid><description>Weekly Meeting 2020-0308 # Attendees:
+@deancn @iscolt @Ac-Kevin @chuanguoyuxi @nonespace @vieangry @whxcode @Jie949 Topic:
+Review Porject task and Issue. Review Miniprogram MVVM sharing Thoughts on code Disscus next week plan Notes:
+AOB</description></item><item><title/><link>https://www.airdb.com/howto/report/README/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/report/README/</guid><description>工作内容 # 2019 年 # 4 月报告 5 月报告
+2018 年 # Q3 周报
+Q4 周报
+其他工作
+学习体会 # douNine</description></item><item><title/><link>https://www.airdb.com/howto/report/template/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.airdb.com/howto/report/template/</guid><description>月报模板 # 示例 # Weekly Meeting 2019w16 (04.15 ~ 04.21) # Time: April 21, 2019 Moderator: @dean Notetaker: @dean Video/Slides: https://youtu.be/JFWi5yebR88 Moderator checklist:
+确定参会人数及时间 是否需要视频或录屏 会议议题及沟通事项 提前准备工作计划 Attendees:
+@dean @tbDuck Agenda
+Topic: 下周工作
+Notes:
+技术突破 志愿者信息录入 小程序使用场景 扫码进入 微信好友分享 微信群组分享 Questions:
+Q: @dean, 为什么用 mpvue, 不用 wepy 呢？ A: 因为 mpvue 使用成本小，且当前已经支持各类小程序。对于我们来讲，是比较简单的 Comments:</description></item></channel></rss>
