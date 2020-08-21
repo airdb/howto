@@ -4,20 +4,30 @@ headless: true
 
 <hr>
 
-- [第一章 序章]({{< relref "/part1/_index.md" >}})
-  - [1.1 关于]({{< relref "/part1/#关于" >}})
-- [第二章 我们的周报]({{< relref "/report/_index.md" >}})
-  - [2.1 studygolang]({{< relref "/part2/studygolang.md" >}})
-  - [Report]({{< relref "/part3/meeting" >}})
-  	- [2018 Q3]({{< relref "/report/2018q3.md" >}})
-  	- [2018 Q4]({{< relref "/report/2018q4.md" >}})
-  	- [2019 m4]({{< relref "/report/2019m4.md" >}})
-  	- [2019 m5]({{< relref "/report/2019m5.md" >}})
-  	- [2020-0304]({{< relref "/report/2020-0304.md" >}})
-  	- [2020-0308]({{< relref "/report/2020-0308.md" >}})
-  	- [2020-0315]({{< relref "/report/2020-0315.md" >}})
-  - [Archives]({{< relref "/part3/meeting" >}})
-- [第三章 学习乐园]({{< relref "/academy/_index.md" >}})
-  - [2.1 LeeCode]({{< relref "/academy/leecode.md" >}})
-  - [douNine 的学习心得]({{< relref "/academy/dou_nine.md" >}})
+- [Part 1 - 规范]({{< relref "/part1/_index.md" >}})
+  - [Github 管理]({{< relref "/coding/github.md" >}})
+  - [工具集]({{< relref "/coding/hugo-book.md" >}})
+
+- Part 2 - 维护项目
+  - [bbhj]({{< relref "/project/bbhj.md" >}})
+  - [studygolang]({{< relref "/project/studygolang.md" >}})
+
+- [Part 3 - 我们的周报]({{< relref "/report/_index.md" >}})
+  - [2018-08 月]({{< relref "/report/2018q3.md" >}})
+  - [2018-10 月]({{< relref "/report/2018q4.md" >}})
+  - [2019-04 月]({{< relref "/report/2019m4.md" >}})
+  - [2019-05 月]({{< relref "/report/2019m5.md" >}})
+  - [2020-0304]({{< relref "/report/2020-0304.md" >}})
+  - [2020-0308]({{< relref "/report/2020-0308.md" >}})
+  - [2020-0315]({{< relref "/report/2020-0315.md" >}})
+  - [2020-03 月]({{< relref "/report/2020-0315.md" >}})
+  - [2020-08 月]({{< relref "/report/2020m8.md" >}})
+  - [Archives]({{< relref "/report/" >}})
+
+- [Part 4 - 学习乐园]({{< relref "/academy/_index.md" >}})
+  - [算法 LeeCode]({{< relref "/academy/leecode.md" >}})
+  - [dounine 的学习心得]({{< relref "/academy/dou_nine.md" >}})
+
+- FAQ
+
 <br />
