@@ -23,7 +23,12 @@ headless: true
   - [2020-0308]({{< relref "/report/2020-0308.md" >}})
   - [2020-0315]({{< relref "/report/2020-0315.md" >}})
   - [2020-03 月]({{< relref "/report/2020-0315.md" >}})
-  - [2020-08 月]({{< relref "/report/2020m8.md" >}})
+  - [2020-04 月]({{< relref "/report/2020-04.md" >}})
+  - [2020-05 月]({{< relref "/report/2020-05.md" >}})
+  - [2020-06 月]({{< relref "/report/2020-06.md" >}})
+  - [2020-07 月]({{< relref "/report/2020-07.md" >}})
+  - [2020-08 月]({{< relref "/report/2020-08.md" >}})
+  - [2020-09 月]({{< relref "/report/2020-09.md" >}})
   - [Archives]({{< relref "/report/" >}})
 
 - [Part 4 - 学习乐园]({{< relref "/academy/_index.md" >}})
