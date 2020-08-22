@@ -4,6 +4,9 @@ headless: true
 
 <hr>
 
+- Family
+  - [福利发放]({{< relref "/team/welfare.md" >}})
+
 - [Part 1 - 规范]()
   - [技术栈]({{< relref "/coding/stack.md" >}})
   - [Github 管理]({{< relref "/coding/github.md" >}})
