@@ -43,6 +43,8 @@ headless: true
   	- [四种学习方法]({{< relref "/academy/comm/4-ways-to-learn.md" >}})
   	- [高效沟通]({{< relref "/academy/comm/efficient-communication.md" >}})
   	- [管理者能力提升]({{< relref "/academy/comm/m1-ability.md" >}})
+  - [职业英语]({{< relref "/academy/en/" >}})
+  	- [召集开会]({{< relref "/academy/en/calling-a-meeting.md" >}})
   - [labs-college]({{< relref "/academy/labs-college/courses/README.md" >}})
   	- [Sign in with Google]({{< relref "/academy/labs-college/courses/dev1000.md" >}})
   	- [Sign in with Google]({{< relref "/academy/labs-college/courses/dev1001.md" >}})
