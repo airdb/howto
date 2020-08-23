@@ -45,6 +45,7 @@ headless: true
   	- [How to use git]({{< relref "/academy/labs-college/courses/sre1001.md" >}})
   - [算法 LeeCode]({{< relref "/academy/leecode.md" >}})
   - [dounine 的学习心得]({{< relref "/academy/dounine.md" >}})
+  - [iscolt 记录一次团队协作]({{< relref "/academy/iscolt.md" >}})
 
 - FAQ
 
