@@ -5,12 +5,14 @@ headless: true
 <hr>
 
 - Family
+  - [加入我们]({{< relref "/team/join.md" >}})
   - [福利发放]({{< relref "/team/welfare.md" >}})
   - [OKR 目标]({{< relref "/team/okr.md" >}})
 
 - [Part 1 - 规范]()
   - [技术栈]({{< relref "/coding/stack.md" >}})
   - [Github 管理]({{< relref "/coding/github.md" >}})
+  - [Badge]({{< relref "/coding/badge.md" >}})
   - [工具集]({{< relref "/coding/hugo-book.md" >}})
   - [IOS 用户快捷操作]({{< relref "/coding/ios.md" >}})
 
@@ -44,7 +46,7 @@ headless: true
   	- [labs-college]({{< relref "/academy/labs-college/courses/lc1001.md" >}})
   	- [API Gateway]({{< relref "/academy/labs-college/courses/lc1002.md" >}})
   	- [How to use git]({{< relref "/academy/labs-college/courses/sre1001.md" >}})
-  - [算法 LeeCode]({{< relref "/academy/leecode.md" >}})
+  - [面试资料]({{< relref "/academy/interview.md" >}})
   - [dounine 的学习心得]({{< relref "/academy/dounine.md" >}})
   - [iscolt 记录一次团队协作]({{< relref "/academy/iscolt.md" >}})
 
