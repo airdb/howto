@@ -39,6 +39,10 @@ headless: true
 
 - [Part 4 - 学习乐园]({{< relref "/academy/_index.md" >}})
   - [Share Records]({{< relref "/academy/labs-college/records.md" >}})
+  - [公共能力]({{< relref "/academy/comm/" >}})
+  	- [四种学习方法]({{< relref "/academy/comm/4-ways-to-learn.md" >}})
+  	- [高效沟通]({{< relref "/academy/comm/efficient-communication.md" >}})
+  	- [管理者能力提升]({{< relref "/academy/comm/m1-ability.md" >}})
   - [labs-college]({{< relref "/academy/labs-college/courses/README.md" >}})
   	- [Sign in with Google]({{< relref "/academy/labs-college/courses/dev1000.md" >}})
   	- [Sign in with Google]({{< relref "/academy/labs-college/courses/dev1001.md" >}})
