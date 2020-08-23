@@ -6,6 +6,7 @@ headless: true
 
 - Family
   - [福利发放]({{< relref "/team/welfare.md" >}})
+  - [OKR 目标]({{< relref "/team/okr.md" >}})
 
 - [Part 1 - 规范]()
   - [技术栈]({{< relref "/coding/stack.md" >}})
