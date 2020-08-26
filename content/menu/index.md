@@ -8,6 +8,7 @@ headless: true
   - [加入我们]({{< relref "/team/join.md" >}})
   - [福利发放]({{< relref "/team/welfare.md" >}})
   - [OKR 目标]({{< relref "/team/okr.md" >}})
+  - [Feedback]({{< relref "/team/feedback.md" >}})
 
 - [Part 1 - 规范]()
   - [技术栈]({{< relref "/coding/stack.md" >}})
@@ -43,6 +44,8 @@ headless: true
   	- [四种学习方法]({{< relref "/academy/comm/4-ways-to-learn.md" >}})
   	- [高效沟通]({{< relref "/academy/comm/efficient-communication.md" >}})
   	- [管理者能力提升]({{< relref "/academy/comm/m1-ability.md" >}})
+  - [职业英语]({{< relref "/academy/en/" >}})
+  	- [召集开会]({{< relref "/academy/en/calling-a-meeting.md" >}})
   - [labs-college]({{< relref "/academy/labs-college/courses/README.md" >}})
   	- [Sign in with Google]({{< relref "/academy/labs-college/courses/dev1000.md" >}})
   	- [Sign in with Google]({{< relref "/academy/labs-college/courses/dev1001.md" >}})
