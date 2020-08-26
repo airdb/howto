@@ -8,6 +8,7 @@ headless: true
   - [加入我们]({{< relref "/team/join.md" >}})
   - [福利发放]({{< relref "/team/welfare.md" >}})
   - [OKR 目标]({{< relref "/team/okr.md" >}})
+  - [Feedback]({{< relref "/team/feedback.md" >}})
 
 - [Part 1 - 规范]()
   - [技术栈]({{< relref "/coding/stack.md" >}})
