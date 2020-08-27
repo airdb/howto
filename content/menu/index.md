@@ -45,6 +45,7 @@ headless: true
   	- [高效沟通]({{< relref "/academy/comm/efficient-communication.md" >}})
   	- [管理者能力提升]({{< relref "/academy/comm/m1-ability.md" >}})
   - [职场英语]({{< relref "/academy/en/" >}})
+  	- [和小伙伴检查答案]({{< relref "/academy/en/check-answer-with-your-partner.md" >}})
   	- [召集开会]({{< relref "/academy/en/calling-a-meeting.md" >}})
   	- [寻求帮助和回答]({{< relref "/academy/en/making-requests-and-responding.md" >}})
   - [labs-college]({{< relref "/academy/labs-college/courses/README.md" >}})
