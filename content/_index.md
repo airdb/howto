@@ -36,39 +36,13 @@ airdb 目前由一些技术爱好者组成，通过 Github 来协同工作，给
 
 
 ## 我理解的 airdb
+<font size=6 color=#F3716E> A </font> - Action: Do not say easy to anytime.  Every should be done even if it is simple. Just do it.
 
-{{< columns >}}
+<font size=6 color=#F3716E> I </font> - Integrity: Do what you commit on time, within our core values.
 
-<font size=6 color=#F3716E> A </font>
-
-        Action: Do not say easy to anytime.
-        Every should be done even if it is simple.
-        Just do it.
-
-<--->
-
-<font size=6 color=#F3716E> I </font>
-
-        Integrity: Being honest and showing a consistent and uncompromising adherence to strong moral and ethical principles and values.
-<--->
-
-<font size=6 color=#F3716E> R </font>
-
-        Repeat: Retry, research or re-do some thing or tasks.
-        But not repeat what you do now.
-{{< /columns >}}
+<font size=6 color=#F3716E> R </font> - Repeat: Retry, research or re-do some thing or tasks.  But not repeat what you do now.
 
 
+<font size=6 color=#F3716E> D </font> - Definition: Define something by our actions, thoughts.
 
-{{< columns >}}
-<font size=6 color=#F3716E> D </font>
-
-        Definition: Define something by our actions, thoughts.
-
-<--->
-
-<font size=6 color=#F3716E> B </font>
-
-        Better: Better tech, better life. Better objects and better results.
-
-{{< /columns >}}
+<font size=6 color=#F3716E> B </font> - Better: Better tech, better life. Better objects and better results.
