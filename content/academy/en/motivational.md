@@ -5,6 +5,8 @@ type: docs
 
 # Motivational 励志短语
 
+- Daily ripples of excellence over time become a tsunami of success.
+
 - Practice makes perfect.
 熟能生巧！
 
