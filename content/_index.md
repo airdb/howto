@@ -11,6 +11,7 @@ type: docs
 ## 关于 airdb
 
 airdb 目前由一些技术爱好者组成，通过 Github 来协同工作，给一些 NGO 或公益组织提供免费的技术服务。
+
 如果您和我们有共同的想法或目标，欢迎加入 [airdb 技术公益](https://github.com/airdb).
 
 
