@@ -4,7 +4,7 @@ headless: true
 
 <hr>
 
-- Family
+- [Family]({{< relref "/_index.md" >}})
   - [加入我们]({{< relref "/team/join.md" >}})
   - [福利发放]({{< relref "/team/welfare.md" >}})
   - [协作原则]({{< relref "/team/principles.md" >}})
