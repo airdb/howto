@@ -51,7 +51,7 @@ headless: true
   	- [召集开会]({{< relref "/academy/en/calling-a-meeting.md" >}})
   	- [寻求帮助和回答]({{< relref "/academy/en/making-requests-and-responding.md" >}})
   - [labs-college]({{< relref "/academy/labs-college/courses/README.md" >}})
-  	- [Sign in with Google]({{< relref "/academy/labs-college/courses/dev1000.md" >}})
+  	- [Github Usage]({{< relref "/academy/labs-college/courses/git_basic.md" >}})
   	- [Sign in with Google]({{< relref "/academy/labs-college/courses/dev1001.md" >}})
   	- [Build a deb packag]({{< relref "/academy/labs-college/courses/dev2001.md" >}})
   	- [labs-college]({{< relref "/academy/labs-college/courses/lc1001.md" >}})

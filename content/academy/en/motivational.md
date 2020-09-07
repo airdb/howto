@@ -15,3 +15,5 @@ type: docs
 
 - YOLO. You only live once.
 人生只有一次，浪起来！
+
+- What you do makes a difference, and you have to decide what kind of difference you want to make.
