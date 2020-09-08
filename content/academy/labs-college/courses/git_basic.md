@@ -52,3 +52,10 @@ git stash                   (把暂存的文件提交到git的暂存栈)
 git checkout 该提交代码的分支
 git stash pop
 ```
+
+- 场景3：开发错了分支，并且已经提交过 commit 了。 或者需要将某个分支上的commit 代码，移植到开发分支。 那么就需要使用 cherry-pick 这个命令。
+```
+git cherry-pick <commit-id>
+
+git cherry-pick <start-commit-id>...<end-commit-id>
+```
