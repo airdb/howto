@@ -53,6 +53,7 @@ headless: true
   - [labs-college]({{< relref "/academy/labs-college/courses/README.md" >}})
   	- [Github Usage]({{< relref "/academy/labs-college/courses/git_basic.md" >}})
   	- [CoreDNS Plugin]({{< relref "/academy/labs-college/courses/coredns.md" >}})
+  	- [流量复制]({{< relref "/academy/labs-college/courses/traffic-flow-copy.md" >}})
   	- [Sign in with Google]({{< relref "/academy/labs-college/courses/dev1001.md" >}})
   	- [Build a deb packag]({{< relref "/academy/labs-college/courses/dev2001.md" >}})
   	- [labs-college]({{< relref "/academy/labs-college/courses/lc1001.md" >}})
