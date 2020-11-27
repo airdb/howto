@@ -45,6 +45,7 @@ headless: true
   	- [四种学习方法]({{< relref "/academy/comm/4-ways-to-learn.md" >}})
   	- [高效沟通]({{< relref "/academy/comm/efficient-communication.md" >}})
   	- [管理者能力提升]({{< relref "/academy/comm/m1-ability.md" >}})
+  	- [团队协作能力]({{< relref "/academy/comm/teamwork.md" >}})
   - [职场英语]({{< relref "/academy/en/" >}})
   	- [励志短语]({{< relref "/academy/en/motivational.md" >}})
   	- [和小伙伴检查答案]({{< relref "/academy/en/check-answer-with-your-partner.md" >}})
