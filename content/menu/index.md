@@ -37,6 +37,7 @@ headless: true
   - [2020-07 月]({{< relref "/report/2020-07.md" >}})
   - [2020-08 月]({{< relref "/report/2020-08.md" >}})
   - [2020-09 月]({{< relref "/report/2020-09.md" >}})
+  - [2020-12 月]({{< relref "/report/2020-12.md" >}})
   - [Archives]({{< relref "/report/" >}})
 
 - [Part 4 - 学习乐园]({{< relref "/academy/_index.md" >}})
